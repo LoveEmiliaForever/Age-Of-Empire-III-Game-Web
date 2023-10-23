@@ -1,0 +1,103 @@
+main{
+    background-image: url(../images/Home/texur/black-point.jpeg);
+}
+#main-nav{
+
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.741),rgba(255, 255, 255, 0));
+}
+#second-nav{
+    background-image: linear-gradient(to left,rgba(0, 0, 0, 0.529),rgba(255, 255, 255, 0));
+}
+#main-nav a{
+    color: rgb(255, 255, 255);
+}
+#main-nav a:nth-of-type(1):hover{
+    color: rgba(239, 159, 159, 1);
+}
+#main-nav a:nth-of-type(2):hover{
+    color: rgba(134, 224, 206, 1);
+}
+#main-nav a:nth-of-type(3):hover{
+    color: rgba(229, 180, 65, 1);
+}
+#main-nav a:nth-of-type(4):hover{
+    color: rgba(94, 161, 219, 1);
+}
+#main-nav a:nth-of-type(5):hover{
+    color: rgba(201, 113, 235, 1);
+}
+#second-nav a{
+    color:white;
+}
+#cover>h1{
+    color: rgb(189, 119, 44);
+}
+#game-introducing{
+    background-image: linear-gradient(to top,rgba(255,255,255,0),rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0));
+}
+#game-introducing > article{
+    background-image: linear-gradient(to right,rgba(44, 53, 69, 0.716),rgba(255, 255, 255, 0)70%);
+}
+#game-introducing > article > h2{
+    color:rgb(157, 108, 34);
+}
+#game-introducing > article > p{
+    color: rgb(142, 100, 37);
+}
+#game-introducing > article > p > span{
+    color: rgb(142, 67, 23);
+}
+#game-introducing > article > p > span:hover{
+    color: rgb(45, 90, 135);
+}
+#game-mechainics-introducing h2{
+    color: rgb(106, 58, 21);
+}
+#game-mechainics-introducing article h3{
+    color:rgb(110, 75, 33);
+}
+#game-mechainics-introducing article p{
+    color:rgb(92, 73, 50);
+}
+#up-introducing{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.438);
+}
+#down-introducing{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.438);
+}
+#computer-preformance-recommanding{
+    color:aliceblue;
+    background-color:rgba(71, 129, 180, 0.297);
+}
+#computer-preformance-recommanding h2{
+    background-color:rgba(71, 129, 180, 0.297);
+}
+#computer-preformance-recommanding div:nth-of-type(1) >nav >p{
+    background-color:rgba(118, 43, 109, 0.578);
+}
+#computer-preformance-recommanding div:nth-of-type(1) > div >table{
+    background-color: rgba(30, 139, 255, 0.358);
+}
+#computer-preformance-recommanding div:nth-of-type(1) > div > table th{
+    background-color: rgba(73, 195, 49, 0.477);
+}
+#computer-preformance-recommanding div:nth-of-type(1) > div >table tr:nth-child(odd){
+    background-color: rgba(58, 180, 167, 0.477);
+}
+#computer-preformance-recommanding div:nth-of-type(1) > div >table tr:nth-child(even){
+    background-color: rgba(30, 144, 78, 0.404);
+}
+#navigation-wall article{
+    background-color: rgba(0, 145, 255, 0.267);
+}
+#navigation-wall article h2{
+    color: rgb(133, 85, 23);
+}
+#navigation-wall article p{
+    color: rgb(200, 201, 202);
+}
+#friend-links a{
+    color:rgb(87, 118, 138);
+}

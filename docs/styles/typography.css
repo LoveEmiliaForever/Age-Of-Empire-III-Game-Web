@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 铸体;
+    src: url(../font/汉仪铸字美心体简.ttf)format("truetype");
+}
+@font-face {
+    font-family: 行楷毛笔;
+    src: url(../font/和风书道昭和飞龙体.ttf)format("truetype");
+}
+@font-face {
+    font-family: 后现代窄体;
+    src: url(../font/后现代窄体.ttf)format("truetype");
+}
+@font-face {
+    font-family: 后现代窄体3;
+    src: url(../font/后现代窄体3.ttf)format("truetype");
+}
+@font-face {
+    font-family: 和圆体;
+    src: url(../font/文道和圆体.ttf)format("truetype");
+}
+@font-face {
+    font-family: 黑魔法;
+    src: url(../font/汉仪铸字黑魔法.ttf)format("truetype");
+}
+@font-face {
+    font-family: radius-english;
+    src: url(../font/bb3925.ttf)format("truetype");
+}
+@font-face {
+    font-family: beauty-english;
+    src: url(../font/BeauRivageOne.ttf)format("truetype");
+}
+@font-face {
+    font-family: bold-beauty-english;
+    src: url(../font/MamaLove.ttf)format("truetype");
+}
+#main-nav a{
+    font-size: 2.8vh;
+    line-height: .8em;
+    text-decoration: none;
+}
+#main-nav p span{
+    font-size: 1.8vh;
+}
+#second-nav a{
+    font-size: 2.8vh;
+    font-weight: 700;
+    font-family: 和圆体;
+    text-decoration: none;
+}
+#cover>h1{
+    line-height: .6em;
+    font-size: 8vh;
+    font-family: beauty-english;
+    text-align: center;
+    text-shadow: -2px 2px 0px rgb(0, 0, 0);
+}
+#cover>h1>span{
+    font-size: 3vh;
+    font-family: 黑魔法;
+}
+#game-introducing > article > h2{
+    font-size: 300%;
+    font-weight: 900;
+    font-family: 后现代窄体3;
+    letter-spacing: .5em;
+}
+#game-introducing > article >p{
+    font-size: 125%;
+    font-weight: 600;
+    font-family: 和圆体;
+    letter-spacing: .15em;
+    line-height: 150%;
+}
+#game-introducing > article > p > span{
+    font-size: 130%;
+    font-family: 后现代窄体;
+}
+#game-introducing > article > p > span:hover{
+    text-decoration: none;
+}
+#game-mechainics-introducing h2{
+    font-size: 340%;
+    font-family: 后现代窄体3;
+    letter-spacing: .2em;
+    text-decoration: none;
+    text-shadow: 0px 0px 3px rgba(132, 74, 30, 0.597);
+}
+#game-mechainics-introducing h2:hover{
+    text-decoration: none;
+    text-shadow: 0px 0px 500px rgb(255, 255, 255);
+}
+#game-mechainics-introducing article h3{
+    font-size: 150%;
+}
+#double-image-slide h2{
+    font-size: 200%;
+    letter-spacing: .1em;
+    text-align: center;
+}
+#double-image-slide p{
+    font-size: 120%;
+    letter-spacing: .04em;
+    text-align: center;
+}
+#computer-preformance-recommanding h2{
+    font-size: 200%;
+}
+#computer-preformance-recommanding div:nth-of-type(1) > div >table{
+    text-align: center;
+}
+#computer-preformance-recommanding div:nth-of-type(1) > div > table th{
+    font-size: 130%;
+}
+#computer-preformance-recommanding div:nth-of-type(1) > div >table td{
+    font-size: 120%;
+}
+#navigation-wall article h2{
+    font-size: 170%;
+    margin-bottom: 1%;
+}
+#navigation-wall article p{
+    font-size: 120%;
+    margin-left: 5%;
+}
+#friend-links a{
+    font-size: 130%;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+}
